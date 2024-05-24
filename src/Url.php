@@ -5,7 +5,7 @@ namespace Abenojardev\OpenAi;
 class Url
 {
     public const ORIGIN = 'https://api.openai.com';
-    public const API_VERSION = 'v1';
+    public const API_VERSION = 'v2';
     public const OPEN_AI_URL = self::ORIGIN . "/" . self::API_VERSION;
 
     /**
