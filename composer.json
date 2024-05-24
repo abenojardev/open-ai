@@ -8,15 +8,15 @@
     ],
     "homepage": "https://github.com/abenojardev/open-ai",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Orhan Erday",
-            "email": "orhanerday@gmail.com",
-            "role": "Developer"
-        },
+    "authors": [,
         {
             "name": "Ken Abenojar",
             "email": "abenojardev@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Orhan Erday",
+            "email": "orhanerday@gmail.com",
             "role": "Developer"
         }
     ],
