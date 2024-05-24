@@ -1,16 +1,22 @@
 {
-    "name": "orhanerday/open-ai",
-    "description": "OpenAI GPT-3 Api Client in PHP",
+    "name": "abenojardev/open-ai",
+    "description": "OpenAI GPT-4o Api Client in PHP forked from orhanerday/open-ai",
     "keywords": [
+        "abenojardev",
         "orhanerday",
         "open-ai"
     ],
-    "homepage": "https://github.com/orhanerday/open-ai",
+    "homepage": "https://github.com/abenojardev/open-ai",
     "license": "MIT",
     "authors": [
         {
             "name": "Orhan Erday",
             "email": "orhanerday@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Ken Abenojar",
+            "email": "abenojardev@gmail.com",
             "role": "Developer"
         }
     ],
@@ -26,12 +32,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Orhanerday\\OpenAi\\": "src"
+            "Abenojardev\\OpenAi\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Orhanerday\\OpenAi\\Tests\\": "tests"
+            "Abenojardev\\OpenAi\\Tests\\": "tests"
         }
     },
     "scripts": {
